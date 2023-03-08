@@ -269,4 +269,11 @@ p {
     .f-22 {
         font-size: 18px;
     }
+    
+.navbar-toggler {
+    box-shadow: none;
+    border: none;
+    height: 30px;
+    width: 50px;
+}
 }
