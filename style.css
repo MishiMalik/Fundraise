@@ -261,4 +261,12 @@ p {
     .f-16 {
         line-height: 20px;
     }
+    .f-19 {
+        font-size: 16px;
+        line-height: 20px
+    }
+    
+    .f-22 {
+        font-size: 18px;
+    }
 }
