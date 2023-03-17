@@ -17,7 +17,9 @@ body {
     height: 850px;
 
 }
-
+.no-decoration{
+    text-decoration: none;
+}
 /* -----------------------------------------------------------text */
 .f-19 {
     font-size: 19px;
@@ -76,7 +78,9 @@ body {
     border-radius: 35px;
     text-decoration: none;
 }
-
+.nav-btn:hover {
+    color: #FFFFFF;
+}
 .main-text {
     font-weight: 600;
     font-size: 77px;
@@ -101,7 +105,9 @@ body {
     cursor: pointer;
     text-decoration: none;
 }
-
+.white-btn:hover {
+    color: #4F9CF9;
+}
 /* ==================================================================================footer */
 .footer {
     background-color: #040335;
